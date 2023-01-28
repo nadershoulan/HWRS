@@ -69,3 +69,6 @@ def hand_NO_recognition():
 if __name__ == '__main__':
     # car_plat('PyCharm')
     hand_NO_recognition()
+    
+    
+    
